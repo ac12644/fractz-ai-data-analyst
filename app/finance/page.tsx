@@ -71,7 +71,7 @@ interface FileUpload {
 
 const models: Model[] = [
   { id: "claude-3-haiku-20240307", name: "Claude 3 Haiku" },
-  { id: "claude-3-5-sonnet-20240620", name: "Claude 3.5 Sonnet" },
+  // { id: "claude-3-5-sonnet-20240620", name: "Claude 3.5 Sonnet" },
 ];
 
 // Updated APIResponse interface
